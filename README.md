@@ -1,4 +1,4 @@
-DH Worm
+DH Worm v0.1
 =========
 
 A Worm Generator made in Delphi.<br>
